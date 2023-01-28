@@ -1,0 +1,34 @@
+[
+    {
+        "name": "HTML",
+        "value": "90"
+    },
+    {
+        "name": "CSS",
+        "value": "90"
+    },
+    {
+        "name": "JAVASCRIPT",
+        "value": "90"
+    },
+    {
+        "name": "REACTJS",
+        "value": "90"
+    },
+    {
+        "name": "TYPESCRIPT",
+        "value": "90"
+    },
+    {
+        "name": "SASS",
+        "value": "90"
+    },
+    {
+        "name": "MYSQL",
+        "value": "90"
+    },
+    {
+        "name": "PHP",
+        "value": "90"
+    }
+]
